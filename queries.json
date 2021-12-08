@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "host": "162.55.216.217",
+    "server": "5.161.56.166",
     "port": "443",
-    "secret": "EE00112233445566778899aabbccddeeff676174657761792e696e7374616772616d2e636f6d",
-    "status": 5,
-    "link": "https://t.me/proxy?server=162.55.216.217&port=443&secret=EE00112233445566778899aabbccddeeff676174657761792e696e7374616772616d2e636f6d"
+    "secret": "7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20",
+    "status": 4,
+    "link": "tg://proxy?server=5.161.56.166&port=443&secret=7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20"
   },
   {
     "id": 2,
-    "host": "www.godaddy-co.cloud",
+    "server": "5.161.53.23",
     "port": "443",
-    "secret": "dd00000000000000000000000000000000",
-    "status": 5,
-    "link": "https://t.me/proxy?server=www.godaddy-co.cloud&port=443&secret=dd00000000000000000000000000000000"
+    "secret": "7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20",
+    "status": 4,
+    "link": "tg://proxy?server=5.161.56.166&port=443&secret=7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20"
   },
   {
     "id": 3,
-    "host": "194.5.193.49",
-    "port": "18853",
-    "secret": "ee9d7889769b4d2723517cb2681d1593646a7573746963652e7669632e676f762e6175",
+    "server": "web.rubika.ir.rubika.guru.",
+    "port": "443",
+    "secret": "ddc2a92257072d457fd0927e27e593e9a7",
     "status": 5,
-    "link": "https://t.me/proxy?server=194.5.193.49&port=18853&secret=ee9d7889769b4d2723517cb2681d1593646a7573746963652e7669632e676f762e6175"
+    "link": "tg://proxy?server=web.rubika.ir.rubika.guru.&port=443&secret=ddc2a92257072d457fd0927e27e593e9a7"
   }
 ]
