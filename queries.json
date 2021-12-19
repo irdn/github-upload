@@ -1,5 +1,13 @@
 [
   {
+    "id": "1",
+    "server": "googlecloud.googlecloud--something.cloud",
+    "port": "443",
+    "secret": "ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d",
+    "status": 4,
+    "link": "tg://proxy?server=googlecloud.googlecloud--something.cloud&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d"
+  },
+  {
     "id": 23,
     "server": "23.88.41.166",
     "port": "443",
