@@ -1,26 +1,42 @@
 [
   {
-    "id": 1,
-    "server": "5.161.56.166",
+    "id": 23,
+    "server": "23.88.41.166",
     "port": "443",
-    "secret": "7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20",
-    "status": 4,
-    "link": "tg://proxy?server=5.161.56.166&port=443&secret=7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20"
-  },
-  {
-    "id": 2,
-    "server": "5.161.53.23",
-    "port": "443",
-    "secret": "7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20",
-    "status": 4,
-    "link": "tg://proxy?server=5.161.56.166&port=443&secret=7tqxgwm3wN57wzBSebd9uudnYXRld2F5Lmluc3RhZ3JhbS5jb20"
-  },
-  {
-    "id": 3,
-    "server": "web.rubika.ir.rubika.guru.",
-    "port": "443",
-    "secret": "ddc2a92257072d457fd0927e27e593e9a7",
+    "secret": "7s8J5YYVhvOdr-WqHy_58gVjb2RlLmdvb2dsZS5jb20=",
     "status": 5,
-    "link": "tg://proxy?server=web.rubika.ir.rubika.guru.&port=443&secret=ddc2a92257072d457fd0927e27e593e9a7"
+    "link": "tg://proxy?server=23.88.41.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gVjb2RlLmdvb2dsZS5jb20="
+  },
+  {
+    "id": 24,
+    "server": "85.10.225.250",
+    "port": "443",
+    "secret": "ee000000000000000000000000000000006865747a6e65722e6465",
+    "status": 5,
+    "link": "tg://proxy?server=85.10.225.250&port=443&secret=ee000000000000000000000000000000006865747a6e65722e6465"
+  },
+  {
+    "id": 25,
+    "server": "176.9.118.132",
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t",
+    "status": 4,
+    "link": "tg://proxy?server=176.9.118.132&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t"
+  },
+  {
+    "id": 26,
+    "server": "www.mikrotik.golf",
+    "port": "443",
+    "secret": "dd00000000000000000000000000000000",
+    "status": 5,
+    "link": "tg://proxy?server=www.mikrotik.golf&port=443&secret=dd00000000000000000000000000000000"
+  },
+  {
+    "id": 27,
+    "server": "hi-bch-hi-boi.lol-244bg.agency",
+    "port": "443",
+    "secret": "dd00000000000000000000000000000000",
+    "status": 4,
+    "link": "tg://proxy?server=hi-bch-hi-boi.lol-244bg.agency&port=443&secret=dd00000000000000000000000000000000"
   }
 ]
